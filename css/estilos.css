@@ -147,7 +147,6 @@ tr{
     height: 172px;
 }
     th, td {
-       border:3px solid black;
         width: 244px;
         height: 172px;
 }
@@ -195,4 +194,10 @@ tr{
 .img82{
     padding-right: 48px;
     float: right;
+}
+
+.txtlink{
+    font-family: arial narrow;
+    font-size: 15px;
+    color: #32cd32;
 }
