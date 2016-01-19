@@ -48,24 +48,21 @@ body{
     padding-bottom: 80px;
     padding-left: 140px;
 }
-.s3{
 
-
-}
 .div31{
     height: 70%;
 }
 .img3{
-     width: 1380px;
+     width: 100%;
+    display: block;
 }
 
 .div4{
      background-color: #2F4F4F;
 }
-.s4{
 
-}
 .txt41{
+    background-color: #2F4F4F;
     padding-left: 130px;
     padding-top: 35px;
     color: white;
@@ -200,4 +197,7 @@ tr{
     font-family: arial narrow;
     font-size: 15px;
     color: #32cd32;
+    padding-left: 28px;
 }
+
+/*p{margin: 0;}*/
